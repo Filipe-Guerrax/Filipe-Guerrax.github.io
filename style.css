@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+#content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+#user-profile {
+    text-align: center;
+}
+
+#user-profile img {
+    max-width: 200px; /* Defina o tamanho máximo desejado, por exemplo, 50px */
+    height: auto; /* Mantenha a proporção da imagem */
+    display: block; /* Remova quaisquer espaços extras ao redor da imagem */
+    margin: 10px auto; /* Centralize a imagem verticalmente */
+}
+
+input, button {
+    margin: 10px;
+    padding: 5px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
